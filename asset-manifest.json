@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/20-stu_fetching-data/static/css/main.84487ea8.css",
+    "main.js": "/20-stu_fetching-data/static/js/main.c0f6b392.js",
+    "index.html": "/20-stu_fetching-data/index.html",
+    "main.84487ea8.css.map": "/20-stu_fetching-data/static/css/main.84487ea8.css.map",
+    "main.c0f6b392.js.map": "/20-stu_fetching-data/static/js/main.c0f6b392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.c0f6b392.js"
+  ]
+}
